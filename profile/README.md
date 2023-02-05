@@ -1,5 +1,7 @@
-# Hi, welcome to `The Bds Manager`
+# Organization disabled
 
-This is a Brazilian project to manage and keep Minecraft servers updated in Bedrock and Java editions.
+The Bds Maneger core moved to [here](https://github.com/Sirherobrine23/Bds-Maneger-Core).
 
-We accept any kind of contribution, as officially there is only one person maintaining the entire Project and some bots and workflows.
+PlayitTunnel moved to [here](https://github.com/Sirherobrine23/node-playit.gg).
+
+More info to Organization disabled: https://twitter.com/Sirherobrine23/status/1622074945319600128
